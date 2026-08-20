@@ -1,42 +1,49 @@
 # GoldTree Property Management — SEO Content
 
-Keyword research and blog drafts for GoldTree Property Management (Bedford, NS / Halifax Regional
-Municipality), targeting residential rental property owners.
+SEO keyword research and blog drafts for [goldtreepropertymanagement.ca](https://goldtreepropertymanagement.ca) —
+a full-service residential property management company based in Bedford, Nova Scotia, serving Halifax,
+Bedford, Dartmouth, Sackville, Timberlea and the wider HRM.
 
 ## Contents
 
 | File | What it is |
 |---|---|
-| `seo/keyword-research.md` | Keyword map, question research, priorities, and technical SEO findings |
-| `blog/01-nova-scotia-rent-cap-2027.md` | NS 5% rent cap + four-month notice rule — **time-sensitive** |
-| `blog/02-evict-tenant-nova-scotia-form-d.md` | Form D → Form K non-payment eviction process |
-| `blog/03-property-management-fees-halifax.md` | Halifax management fee benchmarks — the money page |
+| [`keyword-research.md`](keyword-research.md) | Full keyword map — 8 clusters, ~70 keywords with intent and difficulty, People Also Ask mining, publishing priority and seasonal calendar |
+| [`blogs/01-nova-scotia-rent-cap-2026.md`](blogs/01-nova-scotia-rent-cap-2026.md) | Rent cap + Form J notice deadlines |
+| [`blogs/02-how-to-evict-a-tenant-nova-scotia.md`](blogs/02-how-to-evict-a-tenant-nova-scotia.md) | Eviction process, forms, timelines, costs |
+| [`blogs/03-how-much-rent-can-i-charge-halifax.md`](blogs/03-how-much-rent-can-i-charge-halifax.md) | 2026 rents by area + pricing methodology |
 
-## Publish order
+## Why these three
 
-1. **Blog 01 first, this week.** NS requires four months' notice for a rent increase, so notice for
-   a January 1, 2027 increase must be served by ~September 1, 2026. That urgency hook expires.
-2. **Blog 03** — highest commercial intent; start earning links to it early.
-3. **Blog 02** — evergreen, publish any time.
+All three target **rental owners** rather than tenants. Tenants generate most of the search volume in
+Nova Scotia; owners generate the revenue. The overlap worth winning is *landlord compliance anxiety* —
+owners who are worried about getting something legally wrong and are close to outsourcing the job.
+
+1. **Rent cap / Form J** — highest owner-intent volume in the province, and there is a live 1 September
+   2026 deadline for any 1 January 2027 increase.
+2. **Evictions** — highest pain, highest conversion. An owner mid-eviction is the most likely person
+   online to hire a property manager.
+3. **Halifax rents** — highest raw volume of the three, and maps directly onto GoldTree's free rental
+   analysis lead magnet.
+
+## Format notes
+
+Each draft is Markdown with YAML front matter containing the meta title, meta description, slug, primary
+and secondary keywords, and the schema types to apply. Each post carries an FAQ section written for
+`FAQPage` markup, internal links to its two siblings, and a CTA to the free rental analysis.
 
 ## Before publishing
 
-Each draft carries front matter (`meta_title`, `meta_description`, target keywords) and an HTML
-comment block at the end with internal links, schema notes, and refresh cadence.
-
-Three things must be resolved first:
-
-- **Legal verification** — the tenancy figures come from secondary sources and at least one
-  conflict surfaced during research. Check every item on the verification checklist in
-  `seo/keyword-research.md` §10 against `novascotia.ca` before anything goes live.
-- **The "gross rents" question** (blog 03) — is the management fee charged on rent *collected* or
-  rent *due*? And is the maintenance coordination fee flat or a percentage of invoice? Blog 03
-  makes an argument that depends on both answers.
-- **Somewhere to publish.** There is no `/blog` on the site — the nav runs Home / About / Services /
-  Available Listing / FAQs / Contact. That section needs to exist and be linked from the nav.
-
-CTAs, service lists, fees (7–11% of gross rents, 75% tenant placement) and the service area
-(Halifax, Bedford, Dartmouth, Sackville, Timberlea) are taken from the live site copy.
-
-See `seo/keyword-research.md` §1 for the full method and limitations, and §9 for technical and
-off-page work that will outperform additional blog posts.
+- **Validate the volume estimates.** No keyword-tool API was available in the environment these were
+  built in — figures in `keyword-research.md` are modelled, not pulled. See §0 of that file. The
+  clustering and priority order stand regardless; the absolute numbers need confirming in Ahrefs or
+  Keyword Planner set to Canada / Nova Scotia.
+- **Re-verify every legal fact.** Nova Scotia tenancy law is actively changing. Facts were verified
+  against sources current as of August 2026. Confirm form names and notice periods against the
+  [official residential tenancy forms page](https://novascotia.ca/residential-tenancy-forms) — sources
+  disagree on which form covers rent arrears, and the drafts follow the provincial government's own
+  published guide.
+- **Add a named author byline.** These are YMYL (legal/financial) topics where Google weights E-E-A-T
+  heavily. Publish under a real person at GoldTree, not "Admin".
+- **Diarise a review date.** Posts 1 and 2 need re-checking every January and immediately on any
+  legislative change.
