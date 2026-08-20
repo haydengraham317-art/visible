@@ -1,7 +1,7 @@
 ---
 title: "How to Evict a Tenant for Unpaid Rent in Nova Scotia: The Form D and Form K Process"
 slug: how-to-evict-a-tenant-nova-scotia-unpaid-rent
-meta_title: "How to Evict a Tenant for Unpaid Rent in Nova Scotia (2026) | Gold Tree"
+meta_title: "How to Evict a Tenant for Unpaid Rent in Nova Scotia (2026) | GoldTree"
 meta_description: "A step-by-step guide to Nova Scotia's non-payment eviction process: when you can serve Form D, the 10-day window, filing Form K, and how long eviction actually takes."
 primary_keyword: how to evict a tenant in nova scotia
 secondary_keywords:
@@ -169,10 +169,12 @@ Most non-payment problems are preventable — through proper tenant screening, r
 flags a missed payment on day one, and documentation built up before you need it. When arrears do
 happen, the process rewards acting early and filing correctly.
 
-Gold Tree Property Management handles rent collection, arrears, notices, and Residential Tenancies
-filings for owners across Bedford, Halifax, Dartmouth, and Sackville. `[CONFIRM service list]`
+GoldTree Property Management screens every applicant with credit and background checks, employment
+and income verification, full rental history and reference checks — then handles rent collection,
+arrears follow-up and notices for owners across Halifax, Bedford, Dartmouth, Sackville and
+Timberlea. You track it all in your owner portal instead of chasing updates.
 
-**[Talk to us about your property →]** `[CONFIRM CTA URL]`
+**[Request your free rental analysis →](/contact)** or call **902-237-0303**
 
 ---
 
@@ -181,11 +183,12 @@ filings for owners across Bedford, Halifax, Dartmouth, and Sackville. `[CONFIRM 
 > Tenancies Program or a lawyer before serving any notice.*
 
 <!--
-INTERNAL LINKS TO ADD [CONFIRM URLs]:
-  → /services/tenant-screening
-  → /services/rent-collection
+INTERNAL LINKS TO ADD (site URLs confirmed from live nav):
+  → /services            (Tenant Placement — screening depth is the natural link here)
   → /blog/nova-scotia-rent-cap-2027          (blog 01)
   → /blog/property-management-fees-halifax   (blog 03)
+  → /faqs
+  → /contact
 
 EXTERNAL (authority signals):
   → novascotia.ca — Landlord's Notice to Quit: Failure to Pay Rent (Form D)

@@ -1,7 +1,7 @@
 ---
 title: "Nova Scotia's Rent Cap in 2027: How Much You Can Raise Rent, and the Deadline Most Landlords Miss"
 slug: nova-scotia-rent-cap-2027
-meta_title: "Nova Scotia Rent Cap 2027: How Much Can You Raise Rent? | Gold Tree"
+meta_title: "Nova Scotia Rent Cap 2027: How Much Can You Raise Rent? | GoldTree"
 meta_description: "Nova Scotia's 5% rent cap runs through December 2027. Here's exactly how much you can raise rent, the four-month notice rule, and the deadline for a January 1 increase."
 primary_keyword: nova scotia rent cap 2027
 secondary_keywords:
@@ -152,11 +152,15 @@ No. One increase per 12 months, measured from the previous increase.
 
 ## Never miss a rent increase deadline again
 
-Gold Tree Property Management handles rent reviews, notice preparation, and service dates for
-owners across Bedford, Halifax, Dartmouth, and Sackville — so every increase is lawful, on time,
-and documented. `[CONFIRM service list]`
+GoldTree Property Management handles rent reviews, notice preparation, and service dates for owners
+across Halifax, Bedford, Dartmouth, Sackville and Timberlea — so every increase is lawful, on time,
+and documented, with the paperwork filed in your owner portal.
 
-**[Book a rent review →]** `[CONFIRM CTA URL]`
+Not sure your rent is even at market? Start with a **free rental analysis** — we review your unit
+against current Halifax asking rents and send back a realistic range within one business day, with
+no obligation.
+
+**[Request your free rental analysis →](/contact)** or call **902-237-0303**
 
 ---
 
@@ -165,11 +169,12 @@ and documented. `[CONFIRM service list]`
 > lawyer before acting.*
 
 <!--
-INTERNAL LINKS TO ADD [CONFIRM URLs]:
-  → /services/rent-collection
-  → /blog/how-to-evict-a-tenant-nova-scotia   (blog 02)
-  → /blog/property-management-fees-halifax    (blog 03)
-  → /contact
+INTERNAL LINKS TO ADD (site URLs confirmed from live nav):
+  → /services            (Full Service Property Management)
+  → /blog/how-to-evict-a-tenant-nova-scotia-unpaid-rent  (blog 02)
+  → /blog/property-management-fees-halifax               (blog 03)
+  → /contact             (free rental analysis form)
+  → /bedford, /halifax, /dartmouth  (existing area pages — link on the city mentions)
 
 EXTERNAL (authority signals, all dofollow to .gov):
   → novascotia.ca Residential Tenancies Program — rent increase rules

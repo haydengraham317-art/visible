@@ -1,4 +1,4 @@
-# Gold Tree Property Management — SEO Keyword Research
+# GoldTree Property Management — SEO Keyword Research
 
 **Market:** Bedford, NS → Halifax Regional Municipality (HRM)
 **Audience:** Residential rental property owners / small investors who might hire a manager
@@ -12,21 +12,26 @@
 HRM landlord terms and what they cover), Nova Scotia legislative/regulatory sources, CMHC and
 market-report data, and People-Also-Ask / autocomplete question patterns.
 
-**What I could NOT use — three real gaps:**
+**Site content:** supplied directly by Hayden. `goldtreepropertymanagement.ca` is blocked by this
+environment's network egress policy (hard 403), so I could not crawl it — the drafts are built on
+the home-page copy provided, which covers services, fees, service area and contact details. I have
+**not** seen the /services, /about, /faqs or area pages, so there may be existing content that
+overlaps or should be linked.
+
+**Two real gaps remain:**
 
 1. **No paid keyword tool.** I have no Ahrefs, Semrush, or Keyword Planner access from this
    environment. **Every volume label below is a qualitative estimate** from SERP competitiveness,
    ad presence, PAA depth, and seasonality — *not* a measured number. Do not build a budget on
    them. Validate in Keyword Planner (free with a Google Ads account) before committing spend.
    I have deliberately not written fake numbers like "1,300/mo" — those would be invented.
-2. **goldtreepropertymanagement.ca is blocked** by this environment's network egress policy (hard
-   403). I could not read a single page of the site. So I do not know your existing content,
-   service list, brand voice, internal URL structure, or what you already rank for. **All service
-   claims and internal links in the drafts are placeholders marked `[CONFIRM]`.**
-3. **Gold Tree has almost no third-party footprint.** Searching the brand name across directories,
-   BBB, YellowPages and local listings surfaced *other* companies — a Mansfield OH "Gold Tree PM"
-   (goldtreepm.org) and a Mississauga "Goldtree Management Inc." — but nothing for the Bedford NS
-   business. See §6; this is an SEO finding in its own right.
+2. **No rank data.** I cannot see what GoldTree currently ranks for, what traffic existing pages
+   get, or which competitors outrank you on which terms. Pull that from Search Console — it will
+   sharpen the priorities in §3–§5 considerably.
+
+**Brand confusion is real.** Searching "Gold Tree Property Management" surfaces a Mansfield OH
+company (goldtreepm.org) and a Mississauga "Goldtree Management Inc." before the Bedford business.
+The one-word spelling **GoldTree** is the differentiator — use it consistently everywhere.
 
 ---
 
@@ -41,6 +46,25 @@ market-report data, and People-Also-Ask / autocomplete question patterns.
 Intent: **TXN** = ready to hire · **INFO** = researching · **NAV** = brand/local
 
 ---
+
+## 2b. What GoldTree does (confirmed from site copy)
+
+Anchoring content to actual services, since blog CTAs are only credible if they match delivery.
+
+- **Base:** 135 Innovation Drive, Bedford NS · 902-237-0303
+- **Service area:** Halifax, Bedford, Dartmouth, Sackville, Timberlea, wider HRM
+- **Property types:** single-family homes, condos, townhomes, multi-unit buildings
+- **Services:** Full Service Property Management · Tenant Placement (75% of first month's rent) ·
+  Free Property Consultation & Rental Analysis
+- **Fees:** 7–11% of gross rents by portfolio size, plus a maintenance coordination fee — **published
+  up front**, which is genuinely rare in this market and should be leaned on hard
+- **Differentiators:** owner + tenant portals with real-time statements and maintenance tracking;
+  deep screening (credit, background, employment/income, rental history, references); multi-channel
+  marketing incl. province-wide agent network; 5-star Google rating
+
+**Voice cue from the reviews:** owners repeat the same phrase — *"passive income instead of a new
+part-time job"*, *"get your weekends back"*, *"total peace of mind"*. That is the emotional payload
+your audience responds to. Use it in CTAs rather than generic "contact us today" language.
 
 ## 3. Cluster 1 — Money keywords (bottom of funnel, these pay the bills)
 
@@ -57,14 +81,15 @@ These convert. They are also the hardest, because every competitor wants them.
 | property managers bedford nova scotia | A | TXN |
 | best property management company nova scotia | B | TXN |
 | condo property management halifax | B | TXN |
-| property management sackville / dartmouth / lower sackville | B | TXN |
+| property management dartmouth / sackville / timberlea | B | TXN |
 | is a property manager worth it | B | INFO→TXN |
 | property management vs self managing rental | C | INFO |
 
-> **Geo note.** Bedford is a community *within* HRM, not a standalone market. Build the page
-> hierarchy as `Halifax (hub) → Bedford / Sackville / Dartmouth / Lower Sackville / Halifax
-> Peninsula (spokes)`. Chasing "Bedford" alone caps your ceiling; chasing "Halifax" alone loses
-> the local-pack advantage a Bedford address gives you.
+> **Geo note.** Bedford is a community *within* HRM, not a standalone market. You already have area
+> pages for Dartmouth, Halifax, Bedford, Sackville and Timberlea — good. Make sure each is genuinely
+> distinct (local rent data, neighbourhood specifics, named buildings), not the same paragraph with
+> the place name swapped. Near-duplicate area pages get filtered and can drag the whole set down.
+> "Halifax" is the volume term; the Bedford address is what wins you the local pack.
 
 ## 4. Cluster 2 — Nova Scotia landlord law (highest volume, best authority-builder)
 
@@ -168,19 +193,28 @@ again until next spring. It should go live this week.
 
 ## 9. Technical / off-page priorities (higher ROI than blog #4 will be)
 
-Blogging will underperform until these are fixed:
+**Correction to my earlier read:** I originally flagged a missing Google Business Profile. That was
+wrong — GoldTree holds a **5-star Google rating** with a steady stream of recent reviews. That is
+your strongest single asset and it is already working.
 
-1. **Google Business Profile** — I could not find one. For a local service business this is the
-   single highest-ROI asset, worth more than all three blog posts combined. Claim it, set the
-   Bedford address, category "Property Management Company", and start collecting reviews.
-2. **Citations/NAP** — you are absent from YellowPages, BBB, and the local directories that rank
-   for "property management halifax". Build consistent Name/Address/Phone listings.
-3. **Brand confusion** — "Gold Tree Property Management" also belongs to an Ohio company
-   (goldtreepm.org) that currently outranks you for your own brand name. Prioritise branded SEO
-   or you will lose direct-intent traffic.
-4. **Schema** — add `LocalBusiness` + `RealEstateAgent` to the site and `FAQPage` to each post.
-5. **Service-area pages** — one indexable page per community (Bedford, Sackville, Dartmouth,
-   Halifax Peninsula), each genuinely distinct. Not doorway pages.
+What still needs doing:
+
+1. **There is no blog on the site.** The nav runs Home / About / Services / Available Listing /
+   FAQs / Contact. Every post in this repo needs somewhere to live. Create `/blog` (or
+   `/resources`), link it from the main nav, and give it a real index page. Without this, none of
+   the content work compounds.
+2. **Keep the review engine running.** Recent, steady reviews outrank a static pile of old ones.
+   Ask every owner at the 90-day mark. Add `AggregateRating` schema so the stars can show in SERPs.
+3. **Citations / NAP.** GoldTree is absent from YellowPages, BBB and the HRM directories that rank
+   for "property management halifax". Build consistent Name/Address/Phone listings — 135 Innovation
+   Drive, Bedford NS, 902-237-0303, identical everywhere.
+4. **Branded SEO.** The Ohio goldtreepm.org outranks you for the brand name. Consistent one-word
+   "GoldTree" usage, plus `Organization` schema with `sameAs` links to your Google and social
+   profiles, will separate you.
+5. **Schema.** `LocalBusiness` + `RealEstateAgent` sitewide, `FAQPage` on the existing /faqs page
+   and on each post, `AggregateRating` on the home and fees pages.
+6. **Lean on published pricing.** Almost no Halifax competitor publishes fees. That is a
+   ready-made content and link angle — blog 03 is built on it.
 
 ## 10. Before you publish — verification checklist
 
@@ -197,4 +231,8 @@ publishing.** Publishing wrong tenancy law would hurt your clients and your cred
 - [ ] **Form K** yields an eviction order without a hearing, typically ~1 week
 - [ ] Renoviction: **3 months'** notice, building permit + vacant possession required, compensation scales with building size
 - [ ] Current official form versions and names on the Residential Tenancies Program site
-- [ ] Confirm typical HRM management fee range against your own pricing
+- [ ] Confirm typical HRM management fee range against your own pricing (drafts use your 7–11%)
+- [ ] **Decide the "gross rents" question** — is the fee charged on rent *collected* or rent *due*?
+      Blog 03 changes materially either way; see the flagged note in that file
+- [ ] **Confirm the maintenance coordination fee** is a flat charge, not a % of invoice — blog 03
+      argues the flat-fee case explicitly and must be rewritten if that is wrong

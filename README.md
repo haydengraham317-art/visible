@@ -1,6 +1,6 @@
-# Gold Tree Property Management — SEO Content
+# GoldTree Property Management — SEO Content
 
-Keyword research and blog drafts for Gold Tree Property Management (Bedford, NS / Halifax Regional
+Keyword research and blog drafts for GoldTree Property Management (Bedford, NS / Halifax Regional
 Municipality), targeting residential rental property owners.
 
 ## Contents
@@ -24,14 +24,19 @@ Municipality), targeting residential rental property owners.
 Each draft carries front matter (`meta_title`, `meta_description`, target keywords) and an HTML
 comment block at the end with internal links, schema notes, and refresh cadence.
 
-Two things must be resolved first:
+Three things must be resolved first:
 
-- **`[CONFIRM]` markers** — service lists, CTA URLs, service area, and Gold Tree's real fee
-  structure. The site was unreachable from the environment these drafts were written in, so
-  nothing about the existing site could be verified.
 - **Legal verification** — the tenancy figures come from secondary sources and at least one
   conflict surfaced during research. Check every item on the verification checklist in
   `seo/keyword-research.md` §10 against `novascotia.ca` before anything goes live.
+- **The "gross rents" question** (blog 03) — is the management fee charged on rent *collected* or
+  rent *due*? And is the maintenance coordination fee flat or a percentage of invoice? Blog 03
+  makes an argument that depends on both answers.
+- **Somewhere to publish.** There is no `/blog` on the site — the nav runs Home / About / Services /
+  Available Listing / FAQs / Contact. That section needs to exist and be linked from the nav.
+
+CTAs, service lists, fees (7–11% of gross rents, 75% tenant placement) and the service area
+(Halifax, Bedford, Dartmouth, Sackville, Timberlea) are taken from the live site copy.
 
 See `seo/keyword-research.md` §1 for the full method and limitations, and §9 for technical and
 off-page work that will outperform additional blog posts.
