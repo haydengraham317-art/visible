@@ -67,6 +67,67 @@ Full front-to-back hardscape build — wall, steps, patio, the lot.
 #hardscaping #retainingwall #landscaping #novascotia #halifax
 ```
 
+### Owner voice — Jack narrating his own video
+
+Use this when the video is Jack's own. Different register: first person, short
+sentences, real trade detail. Owner-voice posts outperform brand-voice ones in
+the trades because they read as a person talking shop, not an account
+advertising.
+
+```
+Jack here 👋 This front yard was a slope nobody could use.
+
+Wanted to walk you through this one start to finish.
+
+We took the grade out and built it back as two tiers — retaining wall along the
+driveway, bluestone landing at the door, steps down through the middle. Planted
+the beds out once the stone was set.
+
+The part you can't see in the video is the part that matters. [BASE + DRAINAGE
+— e.g. "10 inches of compacted 3/4 clear, drainage stone and fabric behind the
+full run"]. That's what stops a wall leaning in five years. Anyone can stack
+block.
+
+Out back we ran the wall along the treeline to level the yard off, then laid the
+patio — fire table one end, dining the other.
+
+Really happy with this one.
+
+Shot and edited it myself, so go easy 😅 Questions about your own grade, ask
+away below.
+
+📞 (902) 221-4582
+📧 doucetlandscaping@gmail.com
+🌐 doucetlandscaping.ca
+
+#hardscaping #retainingwall #landscapedesign #curbappeal #patiodesign
+#outdoorliving #stonework #basework #landscaping #halifax #novascotia #hrm
+```
+
+**Jack fills in the bracket himself.** Base depth, aggregate and drainage detail
+are the most trust-building lines in the whole caption — and the one thing that
+must not be invented. His real spec, his numbers.
+
+Two things this version does that the brand-voice one doesn't: it names the
+problem in the first line (the slope), and it ends on a question. Asking about
+someone's own grade invites comments from people who have the same problem,
+which is exactly who he wants in the replies.
+
+TikTok trim:
+
+```
+Jack here 👋 This front yard was a slope nobody could use.
+
+Two tiers, wall along the driveway, steps through the middle. Patio out back.
+
+The base is the part you can't see and the part that matters — [BASE SPEC].
+
+📞 (902) 221-4582
+🌐 doucetlandscaping.ca
+
+#hardscaping #retainingwall #landscaping #novascotia #halifax
+```
+
 ### Alternate hooks
 
 Swap the first line to test. This is the only line that decides whether anyone
