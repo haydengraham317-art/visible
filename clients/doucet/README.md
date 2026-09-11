@@ -112,28 +112,12 @@ same slot, same length.
 
 ## Caption copy
 
-Swap `{{BUSINESS}}` and add the neighbourhood. Hooks first, they're what the
-first 1.5s of text should say:
+Written out in [`captions.md`](captions.md) — Instagram and TikTok versions,
+alternate hooks to rotate, which video goes to which platform, and the standing
+contact block that runs under every post.
 
-- "This driveway used to be a slope."
-- "Nobody notices a retaining wall. Until it's this one."
-- "Front yard to backyard — same weekend crew."
-- "The step detail is the whole job."
-
-Caption:
-
-> Full front and back transformation — tiered retaining wall, bluestone landing
-> and steps, planted beds, and a back patio built for actually using.
->
-> Swipe to the end for the drone shot. 👇
->
-> Booking {{SEASON}} builds now — DM for a quote.
->
-> #hardscaping #retainingwall #landscapedesign #curbappeal #patiodesign
-> #novascotia #halifax #beforeandafter #landscaping #outdoorliving
-
-If there are **before** photos of this property, get them. A before/after on
-the first frame will outperform everything here, and the wall shots make an
+If there are **before** photos of this property, get them. A before/after on the
+first frame will outperform everything here, and the wall shots make an
 unusually strong pair.
 
 ## Regenerating
