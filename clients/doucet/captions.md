@@ -32,9 +32,9 @@ Jack asked for something plain. This is his line, tightened. Send for approval
 before posting.
 
 ```
-Trusted local landscape design with expertise in excavation and stone work.
+Trusted local landscape design 🌿 with expertise in excavation 🚜 and stone work 🪨
 
-Call today for a free quote.
+Call today for a free quote ✅
 
 📞 (902) 221-4582
 📧 doucetlandscaping@gmail.com
@@ -44,7 +44,10 @@ Call today for a free quote.
 #halifax #novascotia
 ```
 
-Only change from what he wrote: "with an expertise in" → "with expertise in".
+Changes from what he wrote: "with an expertise in" → "with expertise in", plus
+three inline emoji. Each one maps to something the line actually names —
+landscape, excavation, stone — so they break up the sentence instead of
+decorating it.
 
 TikTok — same thing, fewer tags:
 
