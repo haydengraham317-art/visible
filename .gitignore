@@ -1,0 +1,4 @@
+
+# Rendered video output - regenerate with render_clips.py
+clients/doucet/out/
+__pycache__/
