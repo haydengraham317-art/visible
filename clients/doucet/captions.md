@@ -1,5 +1,7 @@
 # Doucet Landscaping — post copy
 
+41 French Masts Ln, HRM — front-to-back hardscape build.
+
 ## Standing contact block
 
 Goes under every post, exactly as written:
@@ -24,7 +26,47 @@ does the same job without exposing the address to crawlers.
 
 ---
 
-## This post — the 41 [street] front-to-back build
+## APPROVED DIRECTION — short version (Jack's own wording)
+
+Jack asked for something plain. This is his line, tightened. Send for approval
+before posting.
+
+```
+Trusted local landscape design with expertise in excavation and stone work.
+
+Call today for a free quote.
+
+📞 (902) 221-4582
+📧 doucetlandscaping@gmail.com
+🌐 doucetlandscaping.ca
+
+#hardscaping #retainingwall #excavation #stonework #landscapedesign #curbappeal
+#halifax #novascotia
+```
+
+Only change from what he wrote: "with an expertise in" → "with expertise in".
+
+TikTok — same thing, fewer tags:
+
+```
+Trusted local landscape design with expertise in excavation and stone work.
+Call today for a free quote.
+
+📞 (902) 221-4582
+🌐 doucetlandscaping.ca
+
+#hardscaping #excavation #stonework #landscaping #halifax
+```
+
+Job address is 41 French Masts Ln (HRM), so the Halifax/NS tags are right for
+this one.
+
+The longer brand-voice and owner-voice versions below are kept for future posts
+where there's more room to tell the story.
+
+---
+
+## Longer versions — kept for future posts
 
 ### Instagram (Reels + feed)
 
